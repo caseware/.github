@@ -11,3 +11,5 @@ Our latest SDLC provides us with:
 - automated e2e (A/B) tests for frontend and backend applications
 
 <img src="https://github.com/caseware/.github-private/blob/master/profile/images/pr-screenshot.png" />
+
+Interested in learning more? <a href="https://jobs.lever.co/caseware">Explore our open positions</a>
