@@ -10,4 +10,4 @@ Our latest SDLC provides us with:
 - pull-requests deployments for all affected apps
 - automated e2e (A/B) tests for frontend and backend applications
 
-<img src="images/pr-screenshot.png" />
+<img src="https://github.com/caseware/.github-private/blob/master/profile/images/pr-screenshot.png" />
