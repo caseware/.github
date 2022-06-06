@@ -13,4 +13,4 @@ Our latest SDLC provides us with:
 - pull-requests deployments for all affected apps
 - automated e2e (A/B) tests for frontend and backend applications
 
-![PR Workflow](https://github.com/caseware/.github-private/blob/master/profile/images/pr-screenshot.png "CW PR Workflow")
+![PR Workflow](https://github.com/caseware/.github/blob/master/profile/images/pr-screenshot.png "CW PR Workflow")
