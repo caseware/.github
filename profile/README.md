@@ -1,6 +1,6 @@
-# Welcome to CaseWare's GitHub! 👋
+# Welcome to Caseware's GitHub! 👋
 
-CaseWare is one of Canada's original Fintech companies, having led the global audit and accounting software industry for over 30 years, with more than 500,000 users across 130 countries and available in 16 different languages.
+Caseware is one of Canada's original Fintech companies, having led the global audit and accounting software industry for over 30 years, with more than 500,000 users across 130 countries and available in 16 different languages.
 
 # How we develop and deploy 🚀
 
